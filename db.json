@@ -1,0 +1,45 @@
+{
+  "posts": [],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "ABC",
+      "email": "abc@gmail.co",
+      "mobile": "7978702911",
+      "address": "btm layout",
+      "services": "chai somasa"
+    },
+    {
+      "id": 3,
+      "name": "Test",
+      "email": "test@test.com",
+      "mobile": "99045678",
+      "address": "koramangala",
+      "services": "coffee"
+    },
+    {
+      "id": 4,
+      "name": "test",
+      "email": "test@gmail.com",
+      "mobile": "0986532",
+      "address": "809,1st cross",
+      "services": "tea, coffee"
+    }
+  ],
+  "users": [
+    {
+      "name": "Lipsa",
+      "email": "lipsa@gmail.com",
+      "mobile": "7978702916",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Dipsa ",
+      "email": "dipsa@gmail.com",
+      "mobile": "7873122346",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
